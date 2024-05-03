@@ -1,10 +1,8 @@
 # Adventure-Work-Report
- Adventure Work Report 2020-2022 in PowerBi
+Adventure Works Power BI project! This project was completed as part of the Maven Analytics Power BI course, where participants were tasked with creating insightful visualizations and analyses using the Adventure Works dataset.
 
- 
- I developed and completed a project as an integral component of my coursework on Udemy,
+The dashboard aims to showcase key insights and trends within the Adventure Works business operations, including sales performance, product analysis, customer segmentation, and more.
 
-Udemy Course Link : 
-https://www.udemy.com/course/microsoft-power-bi-up-running-with-power-bi-desktop/ 
+The Adventure Works dataset provided by Maven Analytics serves as the primary data source for this project
 
 
