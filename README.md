@@ -3,7 +3,7 @@ Adventure Works Power BI project! This project was completed as part of the Mave
 
 The dashboard aims to showcase key insights and trends within the Adventure Works business operations, including sales performance, product analysis, customer, and more.
 
-Key Features 
+Key Features of the Visualization:
 - KPI's 
 - Sales Performance
 - Sales Target
